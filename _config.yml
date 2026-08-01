@@ -27,8 +27,8 @@ linkedin: https:www.linkedin.com/in/fengpengli
 wechat: ./assets/img/wechat_qr.png
 
 # Images
-avatar: ./assets/img/pic2.jpg
-avatar_back: ./assets/img/never_enough.jpg
+avatar: ./assets/img/pic2.png
+avatar_back: ./assets/img/pic1.jpg
 favicon: ./assets/img/ghibli.png
 favicon_dark: ./assets/img/ghibli.png
 
