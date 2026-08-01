@@ -7,8 +7,6 @@ layout: homepage
 
 I am <span class="about-emphasis">Fengpeng Li</span>, currently a post-doc Research Fellow at [Prada Lab](https://pradalab1.github.io/), [King Abdullah University of Science and Technology (KAUST)], (https://www.kaust.edu.sa/), advised by Prof. [*Di Wang*](https://shao3wangdi.github.io/)). Prior to that, I earned my BS degree in Remote Sensing Science and Technology and Mphil degree of Computer Science and Technology from [China University of Geosciences(Wuhan)](https://www.cug.edu.cn) under the supervison of Prof. [*Lizhe Wang*](https://www.sigs.tsinghua.edu.cn/wlz_en/main.psp), and my PhD degree in Computer Science from [IOTSC](https://skliotsc.um.edu.mo/) of [University of Macau](https://www.um.edu.mo/), advised by Prof. [*Jiantao Zhou*](https://www.fst.um.edu.mo/personal/jtzhou/). I also work closely with Mr. [*Kemou Li*]([https://feng-peng-li.github.io/FengpengLi/](https://kemoulee.github.io/)), Dr. [*Qizhou Wang*](https://qizhouwang.github.io/homepage/), Prof. [*Haiwei Wu*](https://www.scse.uestc.edu.cn/info/1081/16855.htm), and Prof. [*Bo Han*](http://bhanml.github.io/).
 
-I am currently focusing on machine unlearning for LLMs, with an emphasis on theoretical foundations. I am also interested in broader topics in trustworthy foundation models, machine learning, and AI security. I am always open to collaboration or exchanging ideas on related topics.
-
 <div class="about-callout">
   <span class="about-callout__icon" aria-hidden="true">
     <i class="fa-solid fa-location-dot"></i>
@@ -23,16 +21,13 @@ I am currently focusing on machine unlearning for LLMs, with an emphasis on theo
 <div class="recent-news-scroll" markdown="1">
 
 - **2026-03** Our team wins the 6th place (6/511) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
-- **2026-02** One paper on image forensics accepted to CVPR 2026 Highlight. See you in Denver!
+- **2026-02** One paper on image forensics accepted to CVPR 2026. See you in Denver!
 - **2026-01** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio de Janeiro!
 - **2025-06** One paper on adversarial training accepted to IEEE TIFS.
 - **2025-06** Pass my PhD qualifying exam.
 - **2025-05** One paper on learning with noisy labels accepted to IJCV.
-- **2025-02** One paper on font watermarking accepted to IEEE TMM.
-- **2025-01** Start remote research at TMLR Group with Dr. Qizhou Wang and Prof. Bo Han.
 - **2024-09** One paper on adversarial training accepted to NeurIPS 2024.
 - **2024-09** Our team wins the championship (1/706) at the Global Multimedia Deepfake Detection Challenge (Image Track) at the 2024 Inclusion Conference on the Bund.
-- **2024-08** Start my PhD journey at the University of Macau.
 - **2023-12** One paper on learning with noisy labels accepted to AAAI 2024 Oral (2.2%).
 
 </div>
