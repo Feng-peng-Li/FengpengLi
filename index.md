@@ -11,7 +11,7 @@ I am <span class="about-emphasis">Fengpeng Li</span>, currently a post-doc Resea
   <span class="about-callout__icon" aria-hidden="true">
     <i class="fa-solid fa-location-dot"></i>
   </span>
-  <p class="about-callout__text">I am looking for visiting PhD opportunity. Please feel free to contact me about any potential openings :)</p>
+  <p class="about-callout__text">I am always looking for cooperation in Trustworthy AI and GeoAI. Please feel free to contact me about any potential openings :)</p>
 </div>
 </section>
 
