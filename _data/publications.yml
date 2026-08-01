@@ -1,22 +1,14 @@
 main:
-  - title: "<em>k</em>NNProxy: Efficient Training-Free Proxy Alignment for Black-Box Zero-Shot LLM-Generated Text Detection"
-    authors: Kahim Wong, <strong><u>Kemou Li</u></strong>, Haiwei Wu, Jiantao Zhou
-    conference_short: arXiv-26
-    conference: arXiv preprint, 2026
-    # badges: ["CCF A"]
-    pdf: https://arxiv.org/abs/2604.02008
-    # code: https://github.com/Feng-peng-Li/CoFAT
-    image: ./assets/img/kNNProxy.jpg
-
-  - title: "Editprint: General Digital Image Forensics via Editing Fingerprint with Self-Augmentation Training"
-    authors: Haiwei Wu*, <strong><u>Kemou Li*</u></strong>, Yuanman Li, Jiantao Zhou
-    conference_short: CVPR-26 Highlight
+  
+  - title: "Zero-shot Detection of AI-Generated Image via RAW–RGB Alignment"
+    authors: Haiwei Wu*, <strong><u>Fengpeng Li*</u></strong>, Lingzhi Tu, Yuanman Li,Xiong Li, Jiantao Zhou
+    conference_short: CVPR-26
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026
     badges: ["CCF A"]
-    # pdf: https://openreview.net/forum?id=qCfYOLAzti
-    code: https://github.com/HighwayWu/Editprint
+    pdf: https://cvpr.thecvf.com/virtual/2026/poster/38851
+    #code: https://github.com/HighwayWu/Editprint
     image: ./assets/img/Editprint.jpg
-    notes: Highlight
+    notes: Poster
 
   - title: "LLM Unlearning with LLM Beliefs"
     authors: <strong><u>Kemou Li</u></strong>, Qizhou Wang, Yue Wang, Fengpeng Li, Jun Liu, Bo Han, Jiantao Zhou
@@ -54,15 +46,6 @@ main:
     code: https://github.com/Feng-peng-Li/RML-Extension
     image: ./assets/img/RMLEX.jpg
   
-  - title: "FontGuard: A Robust Font Watermarking Approach Leveraging Deep Font Knowledge"
-    authors: Kahim Wong, Jicheng Zhou, <strong><u>Kemou Li</u></strong>, Yain-Whar Si, Xiaowei Wu, Jiantao Zhou
-    conference_short: TMM-25
-    conference: IEEE Transactions on Multimedia <strong>(TMM)</strong>, 2025
-    badges: ["CCF A"]
-    pdf: https://ieeexplore.ieee.org/document/11146602
-    code: https://github.com/KAHIMWONG/FontGuard
-    image: ./assets/img/model_overview.png
-
   - title: "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain"
     authors: Fengpeng Li, <strong><u>Kemou Li</u></strong>, Haiwei Wu, Jinyu Tian, Jiantao Zhou
     conference_short: NeurIPS-24
