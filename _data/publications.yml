@@ -3,7 +3,7 @@ main:
     authors: Jun Liu, Leo Yu Zhang, <strong><u>Fengpeng Li</u></strong>, Isao Echizen, Jiantao Zhou
     conference_short: CVPR-26
     conference: Proceedings of USENIX Conference on Security Symposium Cycle 2 <strong>(USENIX Security)</strong>, 2026
-    badges: ["CCF A (Big Four)"]
+    badges: ["CCF A"]
     pdf: https://arxiv.org/abs/2601.14300
     #code: https://github.com/HighwayWu/Editprint
     image: ./assets/img/usnix.png
