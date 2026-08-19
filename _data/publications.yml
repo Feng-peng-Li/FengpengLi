@@ -1,7 +1,7 @@
 main:
   - title: " Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations"
     authors: Jun Liu, Leo Yu Zhang, <strong><u>Fengpeng Li</u></strong>, Isao Echizen, Jiantao Zhou
-    conference_short: CVPR-26
+    conference_short: SENIX Security-26-Cycle2
     conference: Proceedings of USENIX Conference on Security Symposium Cycle 2 <strong>(USENIX Security)</strong>, 2026
     badges: ["CCF A"]
     pdf: https://arxiv.org/abs/2601.14300
