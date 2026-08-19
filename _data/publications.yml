@@ -20,7 +20,7 @@ main:
     notes: Poster
 
   - title: "LLM Unlearning with LLM Beliefs"
-    authors:Kemou Li, Qizhou Wang, Yue Wang, <strong><u>Fengpeng Li*</u></strong>, Jun Liu, Bo Han, Jiantao Zhou
+    authors: Kemou Li, Qizhou Wang, Yue Wang, <strong><u>Fengpeng Li*</u></strong>, Jun Liu, Bo Han, Jiantao Zhou
     conference_short: ICLR-26
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026
     badges: ["CCF A"]
