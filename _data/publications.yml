@@ -1,4 +1,15 @@
 main:
+  - title: "LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation"
+    authors: Jun Wang*, <strong><u>Fengpeng Li*</u></strong>, Hang Dong, Tianjin Huang, Wei Han
+    conference_short: NeurIPS E&D Track
+    conference: Proceedings of NeurIPS Evaluation and Datasets Track <strong>(NeurIPS E&D Track)</strong>, 2026
+    badges: ["CCF A"]
+    pdf: https://arxiv.org/abs/2605.07640
+    #code: https://github.com/HighwayWu/Editprint
+    image: ./assets/img/lithon.png
+    notes: Poster
+
+
   - title: " Low-Cost Hard-Label Adversarial Attack with Theoretical Foundations"
     authors: Jun Liu, Leo Yu Zhang, <strong><u>Fengpeng Li</u></strong>, Isao Echizen, Jiantao Zhou
     conference_short: SENIX Security-26-Cycle2
