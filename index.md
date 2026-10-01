@@ -19,7 +19,7 @@ I am <span class="about-emphasis">Fengpeng Li</span>, currently a post-doc Resea
 ## News
 
 <div class="recent-news-scroll" markdown="1">
-- **2026-09** One paper on GeoAI accepted to NeurIPS E&D. See you in Paris!
+- **2026-09** One paper on GeoAI accepted to NeurIPS E&D. 
 - **2026-03** Our team wins the 6th place (6/511) at the NTIRE @ CVPR 2026: Robust AI-Generated Image Detection in the Wild Challenge.
 - **2026-02** One paper on image forensics accepted to CVPR 2026. See you in Denver!
 - **2026-01** Two papers on LLM unlearning and diffusion model concept erasure accepted to ICLR 2026. See you in Rio de Janeiro!
